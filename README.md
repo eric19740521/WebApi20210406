@@ -31,9 +31,13 @@ http://localhost:5000/api/values
 4.
 
 get  http://localhost:5000/api/members
+
 get  http://localhost:5000/api/members/{id}
+
 post http://localhost:5000/api/members         members
+
 put  http://localhost:5000/api/members/{id}         members
+
 delete http://localhost:5000/api/members/{id}
 
 
