@@ -5,6 +5,7 @@ dotnet5 C# WebApi 簡單應用
 
 參考資料:
 https://www.youtube.com/channel/UCsb1wk-deZhVorMJ4Q_nWRg/featured 凱哥寫程式
+
 https://ithelp.ithome.com.tw/articles/10194989
 
 
@@ -14,6 +15,7 @@ dotnet new webapi
 
 測試是否可用???
 http://localhost:5000/swagger/index.html
+
 http://localhost:5000/WeatherForecast
 
 2.Controllers 加入一個控制器
